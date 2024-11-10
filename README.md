@@ -13,11 +13,11 @@
 
 
 ## 📊 GitHub Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mr-u0b0dy&show_icons=true&theme=tokyonight&locale=en" alt="mr-u0b0dy" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mr-u0b0dy&show_icons=true&theme=tokyonight&locale=en" alt="mr-u0b0dy" width="500"/></p>
 
 <br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-u0b0dy&theme=tokyonight" alt="mr-u0b0dy" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-u0b0dy&theme=tokyonight" alt="mr-u0b0dy" width="500"/></p>
 
 <br>
 
