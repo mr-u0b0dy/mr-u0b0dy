@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dharun)](https://git.io/typing-svg)
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dharun" alt="Typing SVG" /></p>
 
 <p align="center">
   <img src="assets/Animated_Dev.gif" alt="Animated Dev" width="500"/>
@@ -13,13 +13,12 @@
 
 
 ## 📊 GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-u0b0dy&show_icons=true&theme=tokyonight&locale=en" alt="mr-u0b0dy" /> 
-
-<br>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-u0b0dy&theme=tokyonight" alt="mr-u0b0dy" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mr-u0b0dy&show_icons=true&theme=tokyonight&locale=en" alt="mr-u0b0dy" /></p>
 
 <br>
 
-<p align="center"><img src="/assets/metrics.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-u0b0dy&theme=tokyonight" alt="mr-u0b0dy" /></p>
+
+<br>
+
+<p align="center"><img src="assets/metrics.svg" alt="Metrics" width="400">
