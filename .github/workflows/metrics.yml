@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -17,6 +17,7 @@ jobs:
           filename: assets/metrics.svg
           config_animations: yes
           token: ${{ secrets.METRICS_TOKEN }}
+          config_display: large
 
           # Options
           user: mr-u0b0dy

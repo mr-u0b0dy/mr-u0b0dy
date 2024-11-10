@@ -12,14 +12,14 @@
 - 🛡️ **Cyber Security Enthusiast**: Interested in security practices and learning how to make systems more resilient.
 
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<center>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-u0b0dy&show_icons=true&theme=tokyonight&locale=en" alt="mr-u0b0dy" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-u0b0dy&show_icons=true&theme=tokyonight&locale=en" alt="mr-u0b0dy" /> 
 
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-u0b0dy&theme=tokyonight" alt="mr-u0b0dy" />
-</center>
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-u0b0dy&theme=tokyonight" alt="mr-u0b0dy" />
+
+<br>
 
 <p align="center"><img src="/assets/metrics.svg" alt="Metrics" width="400"></p>
