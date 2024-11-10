@@ -17,7 +17,6 @@ jobs:
           filename: assets/metrics.svg
           config_animations: yes
           token: ${{ secrets.METRICS_TOKEN }}
-          config_display: large
 
           # Options
           user: mr-u0b0dy
