@@ -99,6 +99,64 @@ I enjoy building practical systems at the intersection of hardware and software.
   <summary>Coding Stats (click to expand)</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-337.96%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 164 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Tuesday                  32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Wednesday                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Thursday                 104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Friday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Saturday                 93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Sunday                   245 commits         ██████████░░░░░░░░░░░░░░░   38.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Lua                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+
+ Last Updated on 28/02/2026 06:25:47 UTC
 <!--END_SECTION:waka-->
 </details>
 
