@@ -12,9 +12,21 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Import GPG key
+        run: |
+          echo "${{ secrets.GPG_PRIVATE_KEY }}" | base64 -d | gpg --import --no-tty --batch --yes
+          gpg --list-secret-keys --keyid-format LONG
+      
+      - name: Configure Git for GPG signing
+        run: |
+          git config --global user.signingkey $(gpg --list-secret-keys --keyid-format LONG | grep sec | awk '{print $1}' | cut -d'/' -f2)
+          git config --global commit.gpgsign true
+      
       - uses: anmol098/waka-readme-stats@v5
         id: waka
         continue-on-error: true
+        env:
+          GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
