@@ -49,38 +49,29 @@ I enjoy building practical systems at the intersection of hardware and software.
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Most Commit Language" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mr-u0b0dy&theme=tokyonight" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-u0b0dy&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css,tex,less,dockerfile,makefile,cmake,shell" width="400" /></a>
-</p>
-
 ---
 
 ### OSS Insight
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=63730630" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=63730630&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @mr-u0b0dy" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=63730630&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=63730630&activity_type=all" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=63730630&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-    <img alt="@mr-u0b0dy's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=63730630&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
----
-
-### GitHub Stats
+<p align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=63730630" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=63730630&image_size=auto&color_scheme=dark" width="771" height="auto">
+      <img alt="Dashboard stats of @mr-u0b0dy" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=63730630&image_size=auto&color_scheme=light" width="771" height="auto">
+    </picture>
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub Stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=mr-u0b0dy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github" /></a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Productive Time" height="165px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mr-u0b0dy&theme=tokyonight&utcOffset=5.5" /></a>
+  <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=63730630&activity_type=all" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=63730630&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+      <img alt="@mr-u0b0dy's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=63730630&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+    </picture>
+  </a>
 </p>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ---
 
