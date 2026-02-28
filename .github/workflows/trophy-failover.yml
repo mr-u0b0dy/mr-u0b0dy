@@ -1,0 +1,91 @@
+name: Trophy Endpoint Failover
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:         # allow manual trigger
+  push:
+    branches: [main]
+
+jobs:
+  failover:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Find live trophy endpoint
+        id: probe
+        run: |
+          ENDPOINTS=(
+            "https://github-profile-trophy-kannan.vercel.app"
+            "https://github-profile-trophy-liard-delta.vercel.app"
+            "https://github-profile-trophy-fork-two.vercel.app"
+            "https://github-profile-trophy-winning.vercel.app"
+            "https://trophy.ryglcloud.net"
+            "https://github-profile-trophy-tawny.vercel.app"
+            "https://github-profile-repo.vercel.app"
+            "https://gh-trophy.cdnsoft.net"
+            "https://github-profile-trophy.vercel.app"
+          )
+
+          PROBE_PATH="/?username=mr-u0b0dy&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=5"
+
+          for host in "${ENDPOINTS[@]}"; do
+            code=$(curl -s -o /dev/null -w "%{http_code}" \
+                     --max-time 10 --retry 1 \
+                     "${host}${PROBE_PATH}")
+            echo "  $host -> HTTP $code"
+            if [[ "$code" == "200" ]]; then
+              echo "LIVE_HOST=$host" >> "$GITHUB_OUTPUT"
+              echo "Found live endpoint: $host"
+              exit 0
+            fi
+          done
+
+          echo "No live endpoint found – keeping current URL unchanged."
+          exit 0   # don't fail the workflow
+
+      - name: Update README if endpoint changed
+        if: steps.probe.outputs.LIVE_HOST != ''
+        run: |
+          LIVE="${{ steps.probe.outputs.LIVE_HOST }}"
+
+          # Extract the current host from the README
+          CURRENT=$(grep -oP 'src="https://[^/]+(?=/\?)' README.md \
+                    | grep 'trophy' | head -1 | sed 's/src="//') || true
+
+          if [[ "$CURRENT" == "$LIVE" ]]; then
+            echo "Endpoint unchanged ($LIVE), nothing to commit."
+            exit 0
+          fi
+
+          echo "Switching: $CURRENT -> $LIVE"
+
+          # Replace only the host portion in the trophy image src
+          python3 - "$CURRENT" "$LIVE" <<'EOF'
+          import sys, re, pathlib
+          old, new = sys.argv[1], sys.argv[2]
+          p = pathlib.Path("README.md")
+          text = p.read_text()
+          # Escape for regex
+          import re
+          escaped = re.escape(old)
+          updated = re.sub(escaped, new, text)
+          p.write_text(updated)
+          EOF
+
+      - name: Commit & push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet README.md; then
+            echo "No changes to commit."
+          else
+            git add README.md
+            git commit -m "chore: switch trophy endpoint to ${{ steps.probe.outputs.LIVE_HOST }}"
+            git push
+          fi
