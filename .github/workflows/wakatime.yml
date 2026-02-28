@@ -45,7 +45,7 @@ jobs:
           LOCALE: "en"
           COMMIT_BY_ME: "True"
           COMMIT_USERNAME: "mr-u0b0dy"
-          COMMIT_EMAIL: ${{ github.actor }}@users.noreply.github.com
+          COMMIT_EMAIL: ${{ secrets.COMMIT_EMAIL }}
 
       - name: Warn if WakaTime update failed
         if: steps.waka.outcome == 'failure'
