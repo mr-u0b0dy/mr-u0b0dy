@@ -105,26 +105,26 @@ I enjoy building practical systems at the intersection of hardware and software.
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 147.0 kB Used in GitHub's Storage 
  > 
-> 🏆 164 Contributions in the Year 2026
+> 🏆 167 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Monday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 Tuesday                  32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Wednesday                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Thursday                 104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Wednesday                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Thursday                 104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 Friday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Saturday                 93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Sunday                   245 commits         ██████████░░░░░░░░░░░░░░░   38.16 % 
+Saturday                 94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Sunday                   245 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
 ```
 
 
@@ -146,17 +146,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Lua                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Lua                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 28/02/2026 06:25:47 UTC
+ Last Updated on 28/02/2026 06:47:03 UTC
 <!--END_SECTION:waka-->
 </details>
 
