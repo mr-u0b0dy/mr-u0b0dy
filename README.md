@@ -78,7 +78,7 @@ I enjoy building practical systems at the intersection of hardware and software.
 ### Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Trophies" src="https://github-profile-trophy-kannan.vercel.app/?username=mr-u0b0dy&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=5" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Trophies" src="https://github-profile-trophy-kannan.vercel.app/?username=mr-u0b0dy&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=5" width="950" /></a>
 </p>
 
 ---
@@ -89,7 +89,7 @@ I enjoy building practical systems at the intersection of hardware and software.
   <summary>GitHub Metrics (click to expand)</summary>
   <br>
   <p align="center">
-    <a href="https://github.com/lowlighter/metrics"><img alt="Metrics" src="https://github.com/mr-u0b0dy/mr-u0b0dy/blob/main/assets/metrics.svg" width="620" /></a>
+    <a href="https://github.com/lowlighter/metrics"><img alt="Metrics" src="https://github.com/mr-u0b0dy/mr-u0b0dy/blob/main/assets/metrics.svg" width="500" /></a>
   </p>
 </details>
 
