@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: anmol098/waka-readme-stats@v4
+      - uses: anmol098/waka-readme-stats@v5
         id: waka
         continue-on-error: true
         with:
@@ -32,6 +32,8 @@ jobs:
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
           COMMIT_BY_ME: "True"
+          COMMIT_USERNAME: "mr-u0b0dy"
+          COMMIT_EMAIL: ${{ github.actor }}@users.noreply.github.com
 
       - name: Warn if WakaTime update failed
         if: steps.waka.outcome == 'failure'
