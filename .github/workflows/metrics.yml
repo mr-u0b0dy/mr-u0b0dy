@@ -17,6 +17,9 @@ jobs:
         continue-on-error: true
         with:
           filename: assets/metrics.svg
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore(metrics): update GitHub metrics"
           config_animations: yes
           config_output: svg
           config_padding: 0, 8 + 11%
