@@ -36,10 +36,10 @@ jobs:
           plugin_achievements_ignored: octonaut
           plugin_achievements_limit: 0
 
-          # Reactions (yutkat-style)
+          # Reactions (overall)
           plugin_reactions: yes
-          plugin_reactions_limit: 200
-          plugin_reactions_days: 14
+          plugin_reactions_limit: 0
+          plugin_reactions_days: 0
           plugin_reactions_details: count, percentage
           plugin_reactions_ignored: bot
 
@@ -49,30 +49,20 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_details: percentage
-          plugin_languages_sections: most-used
+          plugin_languages_sections: most-used, recently-used
 
           # Isometric commit calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Recently starred repositories
-          plugin_stars: yes
-          plugin_stars_limit: 3
+          # Remove recently bookmarked/starred repositories
+          plugin_stars: no
 
-          # Topics (yutkat-style)
+          # Topics
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
-          plugin_topics_limit: 0
-
-          # WakaTime in Metrics (yutkat-style)
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, projects-graphs
-          plugin_wakatime_limit: 4
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: .user.login
+          plugin_topics_limit: 12
 
       - name: Warn if Metrics update failed
         if: steps.metrics.outcome == 'failure'
