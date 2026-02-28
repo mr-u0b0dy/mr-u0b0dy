@@ -29,7 +29,7 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_TIMEZONE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
           LOCALE: "en"
           COMMIT_BY_ME: "True"
 
