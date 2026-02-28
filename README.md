@@ -28,8 +28,7 @@ I enjoy building practical systems at the intersection of hardware and software.
 ### Recent Activities
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Stats" width="398" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-u0b0dy&theme=tokyonight" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Streak" width="398" height="150" src="https://streak-stats.demolab.com/?user=mr-u0b0dy&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Stats" width="49.5%" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-u0b0dy&theme=tokyonight" /></a><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Streak" width="49.5%" height="150" src="https://streak-stats.demolab.com/?user=mr-u0b0dy&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 <p align="center">
@@ -45,8 +44,7 @@ I enjoy building practical systems at the intersection of hardware and software.
 ### Languages
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Repos per Language" width="398" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-u0b0dy&theme=tokyonight" /></a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Most Commit Language" width="398" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mr-u0b0dy&theme=tokyonight" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Repos per Language" width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-u0b0dy&theme=tokyonight" /></a><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Most Commit Language" width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mr-u0b0dy&theme=tokyonight" /></a>
 </p>
 
 ---
