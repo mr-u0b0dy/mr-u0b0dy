@@ -107,7 +107,7 @@ I enjoy building practical systems at the intersection of hardware and software.
 
 > 📦 147.1 kB Used in GitHub's Storage 
  > 
-> 🏆 168 Contributions in the Year 2026
+> 🏆 175 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -118,13 +118,13 @@ I enjoy building practical systems at the intersection of hardware and software.
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Monday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 Tuesday                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Wednesday                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Thursday                 104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Friday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Saturday                 99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Sunday                   245 commits         █████████░░░░░░░░░░░░░░░░   37.75 % 
+Wednesday                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Thursday                 104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Friday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Saturday                 100 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Sunday                   245 commits         █████████░░░░░░░░░░░░░░░░   37.69 % 
 ```
 
 
@@ -137,9 +137,6 @@ Sunday                   245 commits         █████████░░�
 No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -156,7 +153,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2026 07:34:36 UTC
+ Last Updated on 28/02/2026 07:43:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
