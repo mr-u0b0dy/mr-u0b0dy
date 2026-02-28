@@ -16,12 +16,14 @@ jobs:
         with:
           filename: assets/metrics.svg
           config_animations: yes
+          config_output: svg
+          config_padding: 0, 8 + 11%
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: mr-u0b0dy
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
 
           # Achievements
@@ -36,26 +38,12 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_details: percentage
+          plugin_languages_sections: most-used
 
           # Isometric commit calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Notable contributions
-          plugin_notable: yes
-          plugin_notable_self: yes
-
-          # Follow-up of issues and PRs
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-          plugin_followup_archived: yes
-
-          # Lines of code changed
-          plugin_lines: yes
-          plugin_lines_sections: base, repositories
-
-          # Coding habits
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_languages_limit: 8
+          # Recently starred repositories
+          plugin_stars: yes
+          plugin_stars_limit: 3
