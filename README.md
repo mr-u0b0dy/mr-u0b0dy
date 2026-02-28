@@ -28,12 +28,12 @@ I enjoy building practical systems at the intersection of hardware and software.
 ### Recent Activities
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Stats" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-u0b0dy&theme=tokyonight" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Streak" height="150px" src="https://streak-stats.demolab.com/?user=mr-u0b0dy&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Stats" width="450" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-u0b0dy&theme=tokyonight" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Streak" width="450" height="150" src="https://streak-stats.demolab.com/?user=mr-u0b0dy&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-u0b0dy&theme=tokyonight" width="700" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-u0b0dy&theme=tokyonight" width="900" /></a>
 </p>
 
 <p align="center">
@@ -45,8 +45,8 @@ I enjoy building practical systems at the intersection of hardware and software.
 ### Languages
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Repos per Language" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-u0b0dy&theme=tokyonight" /></a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Most Commit Language" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mr-u0b0dy&theme=tokyonight" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Repos per Language" width="445" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-u0b0dy&theme=tokyonight" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Most Commit Language" width="445" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mr-u0b0dy&theme=tokyonight" /></a>
 </p>
 
 ---
@@ -56,8 +56,8 @@ I enjoy building practical systems at the intersection of hardware and software.
 <p align="center">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=63730630" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=63730630&image_size=auto&color_scheme=dark" width="771" height="auto">
-      <img alt="Dashboard stats of @mr-u0b0dy" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=63730630&image_size=auto&color_scheme=light" width="771" height="auto">
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=63730630&image_size=auto&color_scheme=dark" width="900" height="auto">
+      <img alt="Dashboard stats of @mr-u0b0dy" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=63730630&image_size=auto&color_scheme=light" width="900" height="auto">
     </picture>
   </a>
 </p>
@@ -65,8 +65,8 @@ I enjoy building practical systems at the intersection of hardware and software.
 <p align="center">
   <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=63730630&activity_type=all" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=63730630&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-      <img alt="@mr-u0b0dy's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=63730630&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=63730630&activity_type=all&image_size=auto&color_scheme=dark" width="900" height="auto">
+      <img alt="@mr-u0b0dy's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=63730630&activity_type=all&image_size=auto&color_scheme=light" width="900" height="auto">
     </picture>
   </a>
 </p>
@@ -78,7 +78,7 @@ I enjoy building practical systems at the intersection of hardware and software.
 ### Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Trophies" src="https://github-profile-trophy-kannan.vercel.app/?username=mr-u0b0dy&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=5" width="950" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Trophies" src="https://github-profile-trophy-kannan.vercel.app/?username=mr-u0b0dy&theme=tokyonight&no-frame=true&no-bg=true&column=5&margin-w=5" width="950" /></a>
 </p>
 
 ---
