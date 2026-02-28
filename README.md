@@ -98,7 +98,7 @@ I enjoy building practical systems at the intersection of hardware and software.
   <summary>GitHub Metrics (click to expand)</summary>
   <br>
   <p align="center">
-    <a href="https://github.com/lowlighter/metrics"><img alt="Metrics" src="https://github.com/mr-u0b0dy/mr-u0b0dy/blob/main/assets/metrics.svg" width="700" /></a>
+    <a href="https://github.com/lowlighter/metrics"><img alt="Metrics" src="https://github.com/mr-u0b0dy/mr-u0b0dy/blob/main/assets/metrics.svg" width="620" /></a>
   </p>
 </details>
 
