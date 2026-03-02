@@ -99,19 +99,19 @@ I enjoy building practical systems at the intersection of hardware and software.
   <summary>Coding Stats (click to expand)</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-337.96%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-573.95%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 147.1 kB Used in GitHub's Storage 
+> 📦 149.5 kB Used in GitHub's Storage 
  > 
-> 🏆 173 Contributions in the Year 2026
+> 🏆 270 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
@@ -121,26 +121,30 @@ I enjoy building practical systems at the intersection of hardware and software.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+YAML                     2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+TypeScript               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Rust                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Lua                      1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Lua                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   8 repos             █████████░░░░░░░░░░░░░░░░   34.78 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Lua                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 28/02/2026 07:54:59 UTC
+ Last Updated on 02/03/2026 03:16:37 UTC
 <!--END_SECTION:waka-->
 </details>
 
