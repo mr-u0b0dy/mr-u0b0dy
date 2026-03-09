@@ -105,7 +105,7 @@ I enjoy building practical systems at the intersection of hardware and software.
 
 **🐱 My GitHub Data** 
 
-> 📦 152.4 kB Used in GitHub's Storage 
+> 📦 152.8 kB Used in GitHub's Storage 
  > 
 > 🏆 271 Contributions in the Year 2026
  > 
@@ -121,14 +121,10 @@ I enjoy building practical systems at the intersection of hardware and software.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   31.35 % 
-TypeScript               1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-YAML                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-TOML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -144,7 +140,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2026 03:18:32 UTC
+ Last Updated on 09/03/2026 03:22:13 UTC
 <!--END_SECTION:waka-->
 </details>
 
