@@ -101,13 +101,13 @@ I enjoy building practical systems at the intersection of hardware and software.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.48%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 152.6 kB Used in GitHub's Storage 
+> 📦 152.9 kB Used in GitHub's Storage 
  > 
-> 🏆 271 Contributions in the Year 2026
+> 🏆 302 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -121,10 +121,14 @@ I enjoy building practical systems at the intersection of hardware and software.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      1 hr 54 mins        ███████████████████░░░░░░   76.74 % 
+Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Go                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -140,7 +144,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/03/2026 03:09:30 UTC
+ Last Updated on 22/03/2026 03:28:24 UTC
 <!--END_SECTION:waka-->
 </details>
 
