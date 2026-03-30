@@ -99,19 +99,19 @@ I enjoy building practical systems at the intersection of hardware and software.
   <summary>Coding Stats (click to expand)</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.48%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 155.7 kB Used in GitHub's Storage 
+> 📦 156.0 kB Used in GitHub's Storage 
  > 
-> 🏆 304 Contributions in the Year 2026
+> 🏆 307 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
@@ -121,12 +121,12 @@ I enjoy building practical systems at the intersection of hardware and software.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Lua                      9 mins              ███████████████████████░░   92.34 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Other                    33 mins             ████████████████░░░░░░░░░   64.47 % 
+Markdown                 12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+VS Code                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -142,7 +142,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2026 03:45:15 UTC
+ Last Updated on 30/03/2026 03:49:34 UTC
 <!--END_SECTION:waka-->
 </details>
 
