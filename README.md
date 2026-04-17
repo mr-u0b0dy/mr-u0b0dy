@@ -76,7 +76,7 @@ I enjoy building practical systems at the intersection of hardware and software.
 ### Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Trophies" src="https://github-profile-trophy-kannan.vercel.app/?username=mr-u0b0dy&theme=tokyonight&no-frame=true&no-bg=true&column=5&margin-w=5" width="950" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Trophies" src="https://trophy.ryglcloud.net/?username=mr-u0b0dy&theme=tokyonight&no-frame=true&no-bg=true&column=5&margin-w=5" width="950" /></a>
 </p>
 
 ---
